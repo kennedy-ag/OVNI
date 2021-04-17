@@ -1,0 +1,6 @@
+Notas de melhorias:
+
+- O código foi organizado e dividido de maneira mais adequada;
+- Foram adicionados comentários para facilitar a compreensão;
+- O código foi refeito na sprint 3 e vem sendo otimizado até o presente momento;
+- Com as melhorias feitas, o desempenho e rapidez do código foram beneficiados.
